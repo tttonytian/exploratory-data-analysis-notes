@@ -23,10 +23,12 @@
 - Histograms
 - Density plot
 - Barplot
+
 ### two dimensions
 - Scatter plot
 - Multiple/overlayed 1-D plots (Lattice/ggplot2)
 - Smooth scatterplots
+
 ### > 2 dimensions
 - Overlayed/multiple 2-D plots; coplots
 - Use color, size, shape to add dimensions
