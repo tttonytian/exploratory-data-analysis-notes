@@ -34,3 +34,10 @@
 - Use color, size, shape to add dimensions
 - Spinning plots
 - Actual 3-D plots (not that useful)
+
+## Summary
+- Exploratory plots are "quick and dirty"
+- Let you summarize the data (usually graphically) and highlight any broad features
+- Explore basic questions and hypotheses (and perhaps rule them out)
+- Suggest modeling strategies for the "next step"
+
